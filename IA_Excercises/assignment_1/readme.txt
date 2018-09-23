@@ -1,0 +1,2 @@
+These two exercises are very simple and were requested to introduce us to python. Their function is explained in the file.
+Important: The first exercise cannot be executed correctly because the 'digit.txt' file is not available on the AI course web: https://www.cs.us.es/cursos/iaing/practicas/digits.txt

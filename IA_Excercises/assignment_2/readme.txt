@@ -1,0 +1,3 @@
+This file contains a genetic algorithm prepared to execute a knapsack problem, but can be adapted to other fitness and decode functions.
+This algorithm do not admit multiplicity unless the multiple objects appear multiple times in weights and value lists.
+To use it to solve a problem, it is needed two lists (weights and values) ordered keeping in mind that each index correspond to the same object (weight/value) and generate a problem genetic filling the data as needed.
